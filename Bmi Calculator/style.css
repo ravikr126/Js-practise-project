@@ -1,0 +1,25 @@
+*{
+    background-color: aquamarine;
+}
+
+div{
+    text-align: center;
+    border-color: black;
+    color: "#2D9596";
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+p{
+    font-weight: bold;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
